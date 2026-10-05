@@ -1,0 +1,8 @@
+company,as_of,sector,company_restructuring,hiring_slowdown,financial_pressure,sector_redundancies,regional_redundancies,role_exposure,evidence,source_kind
+Northstar Delivery,2025-01-01,Transport & logistics,72,68,45,61,54,42,Illustrative cost-reduction language|Illustrative hiring slowdown,sample
+Northstar Delivery,2025-07-01,Transport & logistics,81,75,52,64,58,42,Illustrative restructuring announcement|Illustrative vacancy decline,sample
+Greenbank Energy,2025-01-01,Energy,22,31,28,37,42,35,Illustrative stable hiring|Illustrative healthy balance sheet,sample
+Greenbank Energy,2025-07-01,Energy,29,35,32,41,40,35,Illustrative modest reorganisation,sample
+Albion Retail Group,2025-01-01,Retail,55,58,64,67,51,61,Illustrative margin pressure|Illustrative store review,sample
+Albion Retail Group,2025-07-01,Retail,69,63,71,70,55,61,Illustrative store consolidation|Illustrative weak demand,sample
+
